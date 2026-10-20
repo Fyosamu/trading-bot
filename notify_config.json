@@ -1,0 +1,27 @@
+{
+  "ntfy": {
+    "enabled": true,
+    "topic": "trading-bot-sig-9k4d7x"
+  },
+  "telegram": {
+    "enabled": false,
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "discord": {
+    "enabled": false,
+    "webhook_url": ""
+  },
+  "email": {
+    "enabled": false,
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "",
+    "password": "",
+    "to": ""
+  },
+  "webhook": {
+    "enabled": false,
+    "url": ""
+  }
+}
